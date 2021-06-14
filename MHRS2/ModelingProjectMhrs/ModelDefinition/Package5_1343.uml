@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="3cf14bad-1a77-4793-8f50-d06f2fdcad03"
+  name="UI"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="f95675b9-ce1f-4523-8bc4-72383686f356"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DSystem.Web.UI"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="7ef08e8b-3e3b-4fc4-ace5-922919aa5fd3"
+        name="Page"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="755af1e1-a558-418b-8025-8fd346c44f95"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files%2FReference Assemblies%2FMicrosoft%2FFramework%2F.NETFramework%2Fv4.0%2FSystem.Web.dll&quot; Namespace%3DSystem.Web.UI Type%3DPage"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="e4343893-79cb-4a3c-b825-037285046251"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="233a7c7b-3aec-433d-a743-cfa6a55fe0df">
+                <propertyInstance
+                  Id="c7dce780-aaf0-497f-b8f6-6da7d21de59d"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="89e6c988-c7ce-4c8d-88f7-ddac674d5d04">
+                <propertyInstance
+                  Id="11cab35a-3f2e-4740-8ab6-0a9410186347"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="a054424b-5eb3-4a60-89ee-ea4e040615b3">
+                <propertyInstance
+                  Id="3d0c835a-a9d6-4a6a-8348-e6f64d045688"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="f3fdeccf-1b50-46f3-8aca-94f309bc71a9">
+                <propertyInstance
+                  Id="e146d290-093e-4729-97e1-3bd2406003bd"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="ba0b4fe7-cdd0-4d68-8c93-b0cdea6d28f5">
+                <propertyInstance
+                  Id="0d22f450-c616-4efe-ac71-02bc350f2da6"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="c00fa8c2-8375-4b51-bd28-9de72aa8f4eb"
+        LastKnownName="HtmlControls"
+        LastKnownLocation="Package6_1343.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="4e6378cd-515b-435f-ab83-753ce5166b0a"
+        LastKnownName="WebControls"
+        LastKnownLocation="Package7_1343.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

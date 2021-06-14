@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2015-12-30T13:43:38" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2' -  (Package)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::ajax' -  (Class)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::ajax::ajax' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::ajax::butonTip' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::ajax::dolu' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::ajax::Kontrol' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::ajax::Page_Load' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::ajax::Page_Load::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::ajax::Page_Load::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::ajax::sqlKontrol' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::ajax::sqlKontrol::metin' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::cikis' -  (Class)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::cikis::cikis' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::cikis::form1' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::cikis::Page_Load' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::cikis::Page_Load::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::cikis::Page_Load::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect' -  (Class)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::baglan' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::cmd' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::cmd::sorgu' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::DBConnect' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::GetDataCell' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::GetDataCell::sorgu' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::GetDataRow' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::GetDataRow::sorgu' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::GetDataTable' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::GetDataTable::sorgu' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::varmiKayit' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::DBConnect::varmiKayit::sorgu' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::iframe' -  (Class)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::iframe::iframe' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::iframe::Page_Load' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::iframe::Page_Load::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::iframe::Page_Load::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::iframe::RepeaterHastaneListele' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::index' -  (Class)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::index::baglanti' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::index::index' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::index::Page_Load' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::index::Page_Load::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::index::Page_Load::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevu' -  (Class)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevu::Page_Load' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevu::Page_Load::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevu::Page_Load::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevu::randevu' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevuGecmisi' -  (Class)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevuGecmisi::form1' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevuGecmisi::Page_Load' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevuGecmisi::Page_Load::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevuGecmisi::Page_Load::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevuGecmisi::randevuGecmisi' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::randevuGecmisi::Repeater1' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Medium" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil' -  (Class)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::btnGuncelle' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::btnGuncelle_Click' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::btnGuncelle_Click::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::btnGuncelle_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::DropDownList1' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::form1' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::Kontrol' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::Label1' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::Page_Load' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::Page_Load::e' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::Page_Load::sender' -  (Parameter)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::RegularExpressionValidator1' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::txtAdi' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::txtEmail' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::txtSifre' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::txtSoyadi' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::txtTelefon' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::uyeID' -  (Property)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::MHRS2::uyeProfil::uyeProfil' -  (Operation)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System' -  (Package)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Data' -  (Package)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Data::DataRow' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Data::DataTable' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Data::SqlClient' -  (Package)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Data::SqlClient::SqlConnection' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::EventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Object' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web' -  (Package)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web::UI' -  (Package)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web::UI::HtmlControls' -  (Package)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web::UI::HtmlControls::HtmlForm' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web::UI::Page' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web::UI::WebControls' -  (Package)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web::UI::WebControls::Button' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web::UI::WebControls::DropDownList' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web::UI::WebControls::Label' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web::UI::WebControls::RegularExpressionValidator' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web::UI::WebControls::Repeater' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'ModelingProjectMhrs::System::Web::UI::WebControls::TextBox' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProjectMhrs::MHRS2::ajax to ModelingProjectMhrs::System::Web::UI::Page (Generalization)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProjectMhrs::MHRS2::cikis to ModelingProjectMhrs::System::Web::UI::Page (Generalization)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProjectMhrs::MHRS2::iframe to ModelingProjectMhrs::System::Web::UI::Page (Generalization)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProjectMhrs::MHRS2::index to ModelingProjectMhrs::System::Web::UI::Page (Generalization)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProjectMhrs::MHRS2::randevu to ModelingProjectMhrs::System::Web::UI::Page (Generalization)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProjectMhrs::MHRS2::randevuGecmisi to ModelingProjectMhrs::System::Web::UI::Page (Generalization)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: ModelingProjectMhrs::MHRS2::uyeProfil to ModelingProjectMhrs::System::Web::UI::Page (Generalization)" />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="High" Text="(8) type(s) fully reverse engineered." />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="High" Text="(13) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2015-12-30T13:43:59" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

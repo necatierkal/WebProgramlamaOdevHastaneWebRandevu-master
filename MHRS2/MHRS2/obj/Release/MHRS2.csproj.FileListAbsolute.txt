@@ -1,0 +1,6 @@
+C:\Users\kirmizikaya.net\documents\visual studio 2013\Projects\MHRS2\MHRS2\bin\MHRS2.dll.config
+C:\Users\kirmizikaya.net\documents\visual studio 2013\Projects\MHRS2\MHRS2\bin\MHRS2.dll
+C:\Users\kirmizikaya.net\documents\visual studio 2013\Projects\MHRS2\MHRS2\bin\MHRS2.pdb
+C:\Users\kirmizikaya.net\documents\visual studio 2013\Projects\MHRS2\MHRS2\obj\Release\MHRS2.csprojResolveAssemblyReference.cache
+C:\Users\kirmizikaya.net\documents\visual studio 2013\Projects\MHRS2\MHRS2\obj\Release\MHRS2.dll
+C:\Users\kirmizikaya.net\documents\visual studio 2013\Projects\MHRS2\MHRS2\obj\Release\MHRS2.pdb
