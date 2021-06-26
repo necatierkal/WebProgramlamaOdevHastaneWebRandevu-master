@@ -18,7 +18,7 @@ namespace MHRS2
         public static string sqlKontrol(string metin)
         {
             
-            metin = metin.Replace('"', '/');// cift tırnaklar slaca cevriliyor       
+            metin = metin.Replace('"', '/');// cift tırnaklar slasha cevriliyor       
             return metin;
         }
       
